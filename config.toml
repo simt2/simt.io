@@ -1,3 +1,29 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "http://simt.io/"
+title = "Simon Tesar"
+theme = "dimension"
+languageCode = "de-at"
+defaultContentLanguage = "de"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = 'Senior DevOps and system engineer'
+  logo = "fa-cubes"
+  copyright = "Simon Tesar"
+
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/simt2"
+
+[[params.social]]
+  medium = "stackoverflow"
+  icon = "stack-overflow"
+  link = "https://stackoverflow.com/users/1336399/simon-tesar"
+
+[languages]
+[languages.de]
+languageName = "Deutsch"
+weight = 1
+
