@@ -1,3 +1,6 @@
 [submodule "themes/dimension"]
 	path = themes/dimension
 	url = git@github.com:simt2/dimension.git
+[submodule "themes/hello-friend-ng"]
+	path = themes/hello-friend-ng
+	url = git@github.com:simt2/hugo-theme-hello-friend-ng.git
