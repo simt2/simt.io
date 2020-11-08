@@ -1,4 +1,4 @@
-baseurl = "https://simt.io/"
+baseurl = "https://www.simt.io/"
 title = "Simon Tesar"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -42,7 +42,6 @@ disableHugoGeneratorInject = false
 
   defaultTheme = "dark"
   themeColor = "#252627"
-
   customCSS = []
   customJS  = []
   footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
