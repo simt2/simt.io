@@ -55,12 +55,12 @@ disableHugoGeneratorInject = false
 [[params.social]]
   name = "github"
   icon = "github"
-  link = "https://github.com/simt2"
+  url = "https://github.com/simt2"
 
 [[params.social]]
   name = "stackoverflow"
   icon = "stack-overflow"
-  link = "https://stackoverflow.com/users/1336399/simon-tesar"
+  url = "https://stackoverflow.com/users/1336399/simon-tesar"
 
 [languages]
 [languages.en]
